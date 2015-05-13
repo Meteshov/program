@@ -1,0 +1,10 @@
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\bin\Debug\diplom.exe.config
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\bin\Debug\diplom.exe
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\bin\Debug\diplom.pdb
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.csprojResolveAssemblyReference.cache
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.Form1.resources
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.Properties.Resources.resources
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.csproj.GenerateResource.Cache
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.exe
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.pdb
+c:\users\artem\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.Form2.resources
